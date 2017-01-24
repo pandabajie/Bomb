@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">扫雷手机版 熊跃辉</string>
+    <string name="simple">简单</string>
+    <string name="middle">新手</string>
+    <string name="diff">高手</string>
+    <string name="open_flag">打开作弊</string>
+    <item type="id" name="row"></item>
+    <item type="id" name="col"></item>
+</resources>
