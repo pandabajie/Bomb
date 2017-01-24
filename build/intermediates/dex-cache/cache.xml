@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0e84302cd08667f3ea91ada4ea7a15e366b96bc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_9b1409be221c5f4d7774078a9bde425b18a0d190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_af252795de87c0ea84c7adea20a0f157bee32e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_ef9fac3773e671e6652c7e5f9ff218aefdabee41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_6a8a1f325f9ad14b06d7f9ff551aa6e280acc51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_2cefe44b15d1281adedf0962408cb92f1e8880f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_065a55afce45aa13bac5d230011619746e620291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e7d3b9400999fc6e6130e149e0516cfe9300371c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d1126d297e8b733b924c570ac85c45fbfe8b9c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_243eb0d05544e0d44c0977a08fde42acdedacac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_99dd2d6542c0e851cbc1ca999ebe966a3c61e7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_2066088210f08a5396c9cc37d41aa8c41ebd300a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2efcc253d912ddf1bcbbb54423c88411eb652d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_dfe7d49a5792ef42c1ee57e61a6ac6fa7101a68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_83d51316a5682ae046e345d962c476500070b512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_12b427d836c2a9a69ee15908fd4c88d53748d3f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_00c318ae7ee57b44843fce7ca4dc2e8822146652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_8f92ec97b5a90bff15f991cd4c57cd328ad9265d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_d1d0b04a0e2e35fadac2312a872c83ea52a7bf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_27247a717ca2bd1aee8445395ea906ae829221c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_26eb6dd282829b2132c4a4169d2773e1a254776a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e4913291b26160c7224394b2985f2aafd5bfb76c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a420160c410784d5be63a251e1fabe55b83ae786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9894c33f44f8b303cb6af1cccfb0222f137a4ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_6e939d73dac101ea6ffa17cd33984de0376e65b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_a9c3b13767c97c95eb18c0f2bcdf4b8e2fd03cf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_43964192fe47f2ee6824db7489f2cb8d62a39660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_54de5803d97cff98053b44ecb64bcb2750637837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_399501eeda13b05a9c2873ef9297f5fa2a4d72ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_822f58ee48086526ebf249a88a2b0c82c35ec97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_7684d2980e475cf38f33ddca0a15c289f4d673e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_36ec76cfb1c0b24acd12846a9c7a9d3c133383ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\work\git\myself\Bomb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\work\git\myself\Bomb\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_42a3637e3670f0512aae54711f79557a263b7c0a.jar" />
+    </item>
+
+</items>
